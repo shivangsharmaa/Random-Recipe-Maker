@@ -1,5 +1,5 @@
 # Random-Recipe-Picker
-Display random recipe using a GUI Tkinter application, SQLite3 and RecipeDB
+The Recipe Picker Application is a Python-based graphical user interface (GUI) program developed using the tkinter library. Its primary purpose is to help users randomly select a recipe from a SQLite database and view essential details about the chosen recipe. 
 <br>
 <br>
 <h1>Usage</h1>
